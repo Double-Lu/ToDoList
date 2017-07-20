@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+
+    <!--The strings that will show when add/editing todo item-->
+    <string-array name="categorical">
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+    </string-array>
+</resources>

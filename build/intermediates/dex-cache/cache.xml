@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d22702a75048113067bebb775f0ab70ac7e80edf">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6ef4a11fc2fca28a54f2e3c86c5eabf012a56323\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_59929f2cc04c65e7bb6d318e302796849ac958da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\7d6c80300f42c6ae2267d045ec84ad43aa8118ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_fee2959a938a97f272e7599774d0eb3317b7910b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\ee6e16e85c0685761c1df257df35c93b41ba7bf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_2455233215a4404bf0f8d2ff7d345a38f0e4bf5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_a355b3865340f246f8ff80961570eda7bd0b94b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\69d38a6fe2d80d71b6ce6231960a33faee26461a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_9dc6c0076412967ca48f9acff905b0477f6efb0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\8f33c23d1c0511ef7682c18421ab86bede87b707\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_d0123c4bbb11d333ab1b53aca424cb89c88b3c20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\4942f1be06e54a8044f0b03a4ad1bf4dc137ae5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\classes_0bbc97feb6a9af18a92cfcc4b4a68b01803ae3d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_9b1f807a35f7032211bfff6b47db55f10f8d78fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\74567192d7924335f26dc34bb2d637a78abba3ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_08d67564a43cad79fd720deaa815c31db540eab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_8d41bac18a1c6548590e4725bf3b15a98cd93968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\de49a35821599a43ac43ae9ecf9972573f98b551\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_ecc760e8be8a93674b86a41438eb2e3396103b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_eb67b640a61d6b8b3d43fbe7a64cfdb5f5786d2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\6bae39204c6d7843ce194175da17d9acd0e9a7bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_abab5a73642546d9fea2cecc9fcb48fdbb70ea7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\c44b8ffd4337881b353934ae0df8380ebf065e12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_a81a6aec7f0ddc111b5222999921b2b5ae3af1ff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0201acd7b7e59dafc1efb6c579cf1f3dd2f31d2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_5c6455586724d052f16d8e43bf3822ee2843244a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\e8e0ba632b256c6a1e191d8a03cb583ad252d7e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_9a05da176bbcd9c20b3fa27f985decc3742d3fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_f0a0f85c801b8baf237261436dfa3450556874b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\720856073c5ecf8e56da80b22efad9281bef8236\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\classes_8a4e2795b7b769669355020a9231c6e25b44b27b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\211143d7e21481cac3af8d66d2586b19b581d0b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\classes_ab32434f1bf8ff1d87e4b98fb93748ea1c969d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\e8389b7651f97f6944f7894fdaaca4af83bdaa10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_d174f1250a26ff2ed08e9e707b2ac54b79471646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_044c7fe35830d2c4450105f8d9949c0ef4a65b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\03128512bd7d755a9bd15ca75e92675043f30cf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_16cc35b41fc44cd9852fca30d4561208baec0d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_6e13c74537bfe947dafd1e1c1f6576408c0ff589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\524c0cd3f9d7f43a0fb0ca741d6e6a254ba034fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\classes_d34d23a73852064d4a4791ebdd31330bc20218ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\5ee7dffa5f4dc70f0f34940791cdf94c83c696e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\classes_2662224a572678b6a21143ac179b6c073cd295c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\445ce7c0b1a7613523fc712797fbc1198ff8e561\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_e8a538473b1f0a0a9a996f1c23f4e51c097cf699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.android\build-cache\f6d3befca5ae636a777493363270efb7978319c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\debug\classes_25c9ac6f88ef3d0aad481f8666546f54b2c29085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lujac\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\lujac\Desktop\ToDoList\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_6200bba03aa87e859edeffd8b2db26e152e5ce03.jar" />
+    </item>
+
+</items>

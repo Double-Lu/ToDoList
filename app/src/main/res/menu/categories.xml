@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Make like menu for categories-->
+    <item
+        android:id="@+id/all"
+        android:orderInCategory="1"
+        android:title="All" />
+    <item
+        android:id="@+id/morning"
+        android:orderInCategory="2"
+        android:title="Morning" />
+    <item
+        android:id="@+id/afternoon"
+        android:orderInCategory="3"
+        android:title="Afternoon" />
+    <item
+        android:id="@+id/evening"
+        android:orderInCategory="4"
+        android:title="Evening" />
+    <item
+        android:id="@+id/night"
+        android:orderInCategory="5"
+        android:title="Night" />
+</menu>
